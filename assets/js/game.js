@@ -1,4 +1,5 @@
 var playerName = window.prompt("What is your robot's name?");
+debugger;
 var playerHealth = 100;
 var playerAttack = 10;
 var playerMoney = 10;
